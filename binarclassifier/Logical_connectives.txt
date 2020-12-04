@@ -1,0 +1,16 @@
+AND
+And
+and
+OR
+Or
+or
+NOT
+Not
+not
+IF
+If
+if
+THEN
+Then
+then
+
